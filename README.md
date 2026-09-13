@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Alexander Stålnacke</h1>
+<h1 align="center">Hi 👋, I'm Alexander</h1>
 <h3 align="center">I'm a IT Infrastructure student</h3>
 
 - 🌱 I’m currently learning **Kubernetes, Terraform, Ansible**
